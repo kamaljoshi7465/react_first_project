@@ -45,6 +45,10 @@
   padding: 0% 10% 10% 10%;
 }
 
-.homepage{
+.homepage {
   border: 1px solid black;
+}
+
+.conteiner {
+  border: 2px solid black;
 }

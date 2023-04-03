@@ -3,7 +3,10 @@ import { Link } from "react-router-dom";
 
 const HomePage = () => {
   return (
-    <div className="homepage">
+    <div>
+      <div>
+        <h1>DashBoard</h1>
+      </div>
       <Link to="newpage">Create New Blog</Link>
       <br />
       <Link to="showpage">Show Blogs</Link>
